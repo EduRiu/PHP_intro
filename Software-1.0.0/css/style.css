@@ -532,7 +532,8 @@ button {
     float: left;
     font-size: 20px;
     text-align: center;
-    color: #ffffff;
+    background-color: #2756d6a2;
+    color: #e4e4e4;
     position: absolute;
     bottom: -4px;
 }
